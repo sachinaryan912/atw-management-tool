@@ -11,11 +11,11 @@ function InvoicePreview() {
       <div className="invoice-header">
         <div>
           <strong>Client Info</strong>
-          <p>AryanTechWorld<br/>122 Hot Catlli, Suite 400<br/>Teph City, TC 19,350<br/>info@aryantechworld.com<br/>+1 (232) 867 9900</p>
+          <p>AryanTechWorld<br/>Mohammadpur, New Delhi<br/>Delhi, India, 110066<br/>info@aryantechworld.com<br/>+910000000000</p>
         </div>
         <div>
-          <p><strong>Invoice Date:</strong> April 23, 2024</p>
-          <p><strong>Due Date:</strong> April 28, 2024</p>
+          <p><strong>Invoice Date:</strong> April 23, 2025</p>
+          <p><strong>Due Date:</strong> April 28, 2025</p>
         </div>
       </div>
       <table className="invoice-table">
