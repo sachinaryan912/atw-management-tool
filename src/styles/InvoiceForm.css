@@ -1,0 +1,74 @@
+.invoice-form {
+    background-color: #1e1e1e;
+    padding: 2rem;
+    border-radius: 16px;
+    flex: 1;
+  }
+  
+  .invoice-form h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .form-group, .form-group-row {
+    margin-bottom: 1rem;
+  }
+  
+  .form-group-row {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 0.9rem;
+    margin-bottom: 0.3rem;
+  }
+  
+  input, select {
+    width: 100%;
+    padding: 0.6rem;
+    border-radius: 8px;
+    border: 1px solid #333;
+    background-color: #111;
+    color: #fff;
+  }
+  
+  .items-header, .item-row {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+  
+  .item-row input {
+    padding: 0.5rem;
+  }
+  
+  .buttons {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  
+  button {
+    padding: 0.6rem 1rem;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+  .preview {
+    background-color: #2563eb;
+    color: white;
+  }
+  
+  .draft {
+    background-color: #4b5563;
+    color: white;
+  }
+  
+  .pdf {
+    background-color: #10b981;
+    color: white;
+  }
+  
