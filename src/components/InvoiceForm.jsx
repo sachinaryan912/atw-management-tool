@@ -30,6 +30,7 @@ function InvoiceForm() {
           <label>Currency</label>
           <select>
             <option value="USD">USD</option>
+            <option value="INR">INR</option>
           </select>
         </div>
       </div>
